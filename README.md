@@ -21,3 +21,6 @@ Settings → Automatic sync with `username/my-app-data` and your token; Cadence 
 
 ## v1.0.0 (15 Oct 2026)
 First version.
+
+## v1.0.1 (15 Oct 2026)
+The header and bottom bar stay fixed while scrolling on iPhone; only the content area scrolls.
